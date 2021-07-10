@@ -1,14 +1,18 @@
 {
-  "name": "math",
+  "name": "stat.js",
   "version": "1.0.0",
   "description": "solve comples math problems",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "Kaushik Appani",
   "license": "ISC",
   "dependencies": {
     "oddoreven": "^1.2.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/kaushikappani/stat.js/issues"
+  },
+  "homepage": "https://github.com/kaushikappani/stat.js#readme"
 }
